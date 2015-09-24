@@ -1,7 +1,7 @@
 package com.example.fred.widget;
 
-import com.willen.topFloatDemo.R;
 
+import com.example.fred.R;
 import android.R.integer;
 import android.animation.AnimatorSet;
 import android.animation.ValueAnimator;

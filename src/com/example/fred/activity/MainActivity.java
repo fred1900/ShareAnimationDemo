@@ -11,11 +11,11 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.Toast;
 
+import com.example.fred.R;
 import com.example.fred.widget.SharePopWindow;
 import com.example.fred.widget.SharePopWindow.OnClickPointListener;
 import com.example.fred.widget.ShareView;
 import com.example.fred.widget.ShareView.OnDownActionListener;
-import com.willen.topFloatDemo.R;
 
 public class MainActivity extends Activity     {
 	 

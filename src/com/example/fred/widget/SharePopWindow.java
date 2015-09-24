@@ -1,8 +1,8 @@
 package com.example.fred.widget;
 
 import com.example.fred.widget.ShareView.OnDownActionListener;
-import com.willen.topFloatDemo.R;
 
+import com.example.fred.R;
 import android.app.Activity;
 import android.content.Context;
 import android.graphics.drawable.ColorDrawable;
